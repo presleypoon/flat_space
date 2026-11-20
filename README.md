@@ -4,7 +4,7 @@ In this folder, there are 2 folders in it, they are the same code but one has me
 
 ## How to run
 
-You need to have [cargo](https://rust-lang.org/tools/install/) installed to run this.
+You need to have [cargo](https://rust-lang.org/tools/install/) installed to run this.  
 To run them, go to the folder and double click `build.bat` and it will compile and run.  
 If you are running a non-window enviroment, you need to get the terminal open and run `cargo run --release` in that folder
 
